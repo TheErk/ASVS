@@ -15,7 +15,7 @@ La norme de vérification de la sécurité des applications définit trois nivea
 
 Chaque niveau ASVS contient une liste d'exigences de sécurité. Chacune de ces exigences peut également être mise en correspondance avec des caractéristiques et des capacités de sécurité spécifiques qui doivent être intégrées dans les logiciels par les développeurs.
 
-![Niveaux ASVS](../images/asvs_40_levels.png "ASVS Levels")
+![Niveaux ASVS](images/asvs_40_levels.png "ASVS Levels")
 
 Figure 1 - Niveaux de vérification de la sécurité des applications OWASP 4.0
 

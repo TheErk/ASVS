@@ -6,7 +6,7 @@ Le référentiel de vérification de la sécurité des applications est une list
 
 ## Copyright et licence
 
-! [licence](../images/license.png)
+! [licence](images/license.png)
 Copyright © 2008-2019 La Fondation OWASP. Ce document est publié sous la [licence Creative Commons Attribution ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Pour toute réutilisation ou distribution, vous devez indiquer clairement aux autres les termes de la licence de ce travail.
 
 Version 4.0.1, mars 2019
